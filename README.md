@@ -20,6 +20,10 @@
 - Conducted and analyzed 10+ A/B testing experiments to evaluate operational efficiency improvement
 
 ## Projects
+### Plant Trait Prediction
+[Project Link](https://github.com/YumengggZhang/Plan-Trait-Prediction)
+This project aims to predict six plant traits, like leaf area and plant height, using crowd-sourced images and additional data. Given the variability in citizen science data, achieving high accuracy for these traits, which reflect chemical tissue properties, may be challenging. The goal is to investigate the feasibility of this method and understand global ecosystem changes. We will use a multi-task learning model to predict multiple traits from photos, allowing us to identify inter-trait relationships and possibly improve performance.
+
 ### Hotel Cancellation Rate Prediction
 [Project Link](https://github.com/YumengggZhang/Hotel-Cancelation)
 
