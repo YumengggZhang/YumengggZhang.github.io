@@ -1,7 +1,6 @@
 # Data Scientist
 
-#### Research Interest: Python, SQL, R, AWS, Snowflake
-#### Technical Skills: Python, SQL, R, AWS, Snowflake
+#### Research Interest: Deep Learning, Medical Imaging, Domain Generalization, Few-Shot Learning
 
 ## Education						       		
 - M.S., Data Science	| University of California, Irvine (_December 2024_)	 			        		
