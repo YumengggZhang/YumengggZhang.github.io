@@ -7,6 +7,14 @@
 - B.S., Data Science | New York University, Shanghai (_December 2022_)
 
 ## Work Experience
+
+**Research Assistant @ UC Irvine (_April 2024 - present_)**
+- Investigate the possibility of applying Machine Learning-based image segmentation on early cardiovascular disgnosis
+- Review related literature extensively, i.e. medical image transformation, reconstruction, and segmentation
+- Design and implement algorithms and conduct experiments to empirically validate AI-based medical image pro-
+cessing and synthesis research concepts research ideas
+- Present findings through talks and reports to a multidisciplinary group and write manuscripts for publication
+
 **Machine Learning Engineer Intern @ GE Aviation (_June 2022 - Jan 2023_)**
 -  Led a two-person team in building an automated damage detection solution. Developed a CNN-based classification and segmentation model-Unet using TensorFlow, achieving an 85% accuracy across various aircraft engine damages
 - Designed and implemented ETL solutions with over 100GB data. Engineered an automated data processing tool using Python, covering data cleaning, labeling, and augmentation, optimized model training efficiency by over 50%
