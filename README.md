@@ -1,5 +1,6 @@
 # Data Scientist
 
+#### Research Interest: Python, SQL, R, AWS, Snowflake
 #### Technical Skills: Python, SQL, R, AWS, Snowflake
 
 ## Education						       		
